@@ -1,6 +1,6 @@
 # Global settings apply to all sub-charts
 global:
-  cluster: cluster-1
+  cluster: kirthi
   licenseKey: "052552c092159f297a877532b7621d43FFFFNRAL"
   lowDataMode: true
   privileged: true
